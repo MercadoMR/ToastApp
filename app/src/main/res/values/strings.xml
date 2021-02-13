@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaToast</string>
+    <string name="txtToast">Toast</string>
+    <string name="txtContar">Contar</string>
+    <string name="txtConteo">0</string>
+    <string name="tstMessage">Toast!</string>
+</resources>
